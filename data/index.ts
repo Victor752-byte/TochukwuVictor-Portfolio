@@ -72,8 +72,8 @@ export const gridItems = [
 export const developmentProjects = [
   {
     id: 1,
-    title: "Horizon - A modern banking platform for everyone",
-    des: "Horizon is a financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether.",
+    title: "Horizon - A modern banking platform",
+    des: "Horizon is a financial SaaS platform that connects to multiple bank accounts, displays real-time transactions, allows users to transfer money to other platform users, and manage their finances. To test the app, use the credentials: username - user_good, password - pass_good, when linking a bank account.",
     img: "/horizonpage.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/app.svg"],
     link: "https://horizon-azure.vercel.app/",
@@ -97,7 +97,7 @@ export const developmentProjects = [
   {
     id: 4,
     title: "Carepulse - A healthcare patient management system",
-    des: "Carepulse is a healthcare patient management system developed to simplify patient registration, appointment scheduling, and medical records management for healthcare providers, along with SMS notifications. Admin passkey: 395027",
+    des: "Carepulse is a healthcare patient management application developed to simplify patient registration, appointment scheduling, and medical records management for healthcare providers, along with SMS notifications. To access the admin dashboard, use the passkey: 395027",
     img: "/carepulsepage.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/app.svg"],
     link: "https://carepulse-pearl.vercel.app/",
