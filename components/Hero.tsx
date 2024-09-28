@@ -35,7 +35,7 @@ const Hero = () => {
           className="text-center text-[40px] md:text-6xl"
           words="Crafting Functional Designs and Building Immersive Digital Experiences"
           />
-          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
+          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl mt-4">
             Hi &#128400;, I&apos;m Tochukwu Victor, a Front-end Developer and Product Designer
           </p>
           <a href="#about">

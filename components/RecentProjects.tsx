@@ -39,7 +39,7 @@ const RecentProjects = () => {
                 <h1 className='font-bold lg:text-2xl md:text-xl text-base line-clamp-2'>
                     {title}
                 </h1>
-                <p className={`lg:text-xl lg:font-normal font-light text-sm ${id === 3 ? 'line-clamp-5' : 'line-clamp-4'}`}
+                <p className={`lg:text-xl lg:font-normal font-light text-sm line-clamp-5`}
                 style={{
                     color: "#BEC1DD",
                     margin: "1vh 0",
@@ -105,7 +105,7 @@ const RecentProjects = () => {
                 <h1 className='font-bold lg:text-2xl md:text-xl text-base line-clamp-2'>
                     {title}
                 </h1>
-                <p className={`lg:text-xl lg:font-normal font-light text-sm ${id === 3 ? 'line-clamp-5' : 'line-clamp-4'}`}
+                <p className={`lg:text-xl lg:font-normal font-light text-sm line-clamp-5`}
                 style={{
                     color: "#BEC1DD",
                     margin: "1vh 0",
