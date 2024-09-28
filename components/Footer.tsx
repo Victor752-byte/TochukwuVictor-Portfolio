@@ -42,7 +42,7 @@ const Footer = () => {
                     >
                         <img
                         src={profile.img}
-                        alt={profile.id}
+                        alt={profile.img}
                         width={20}
                         height={20}
                         />
