@@ -19,7 +19,7 @@ This portfolio is designed to demonstrate my expertise in building functional, u
 - TypeScript
 - Tailwind CSS
 - Aceternity ui
-- **Tools**: Sentry for bug reporting, GitHub for version control, and GitHub Pages for deployment.
+- **Tools**: Sentry for bug reporting, GitHub for version control, and Vercel for deployment.
 
 ## 🐞 Bug Reporting
 
