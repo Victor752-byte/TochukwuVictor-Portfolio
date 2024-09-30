@@ -7,6 +7,7 @@ import animationData from "@/data/confetti.json";
 import dynamic from "next/dynamic";
 import MagicButton from "./MagicButton";
 import { IoCopyOutline } from "react-icons/io5";
+import ResumeOptions from "../ResumeOptions";
 const Lottie = dynamic(() => import("lottie-react"), { ssr: false });
 
 export const BentoGrid = ({
@@ -164,6 +165,12 @@ export const BentoGridItem = ({
               otherClasses="!bg-[#161a31]"
               handleClick={handleCopy}
               />
+            </div>
+          )}
+
+          {id === 4 && (
+            <div className="mt-5 relative z-10">
+            <ResumeOptions/>
             </div>
           )}
 
