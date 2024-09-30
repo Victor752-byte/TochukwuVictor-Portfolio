@@ -8,7 +8,7 @@ const ResumeButtons: React.FC = () => {
         href="/resume.pdf"
         target="_blank"
         rel="noopener noreferrer"
-        className="bg-black-200 text-white-100 p-2 md:px-4 md:py-2 rounded hover:bg-[rgb(0,17,82)]"
+        className="bg-black-200 text-white-100 p-2 md:px-4 md:py-2 rounded md:hover:bg-[rgb(0,17,82)]"
       >
         View Resume
       </a>
@@ -17,7 +17,7 @@ const ResumeButtons: React.FC = () => {
       <a
         href="/resume.pdf"
         download="Tochukwu_Victor_Resume.pdf"
-        className="bg-[rgb(108,0,162)] text-white-100 p-2 md:px-4 md:py-2 rounded hover:bg-black-200"
+        className="bg-[rgb(108,0,162)] text-white-100 p-2 md:px-4 md:py-2 rounded md:hover:bg-black-200"
       >
         Download Resume
       </a>
