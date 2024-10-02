@@ -6,7 +6,7 @@ import Link from 'next/link'
 
 const Footer = () => {
   return (
-    <footer className='w-full mb-[100px] md:mb-5 pb-8 md:pb-12' id='contact'>
+    <footer className='w-full mb-[100px] md:mb-5 md:pb-12' id='contact'>
         <div className='w-full absolute left-0 bottom-0'>
             <img
             src='/footer-grid.svg'
@@ -20,7 +20,7 @@ const Footer = () => {
                 Ready to take {' '} <span className='text-purple'>your</span>
                 {' '}digital presence to the next level?
             </h1>
-            <p className='text-white-200 md:mt-10 my-5 text-center'>Reach out to me today and let&apos;s discuss how i can help you achieve your golas.</p>
+            <p className='text-white-200 md:mt-10 my-5 text-center'>Reach out to me today and let&apos;s discuss how I can help you achieve your goals.</p>
             <a href='mailto:tochukwuvictor563@gmail.com'>
                 <MagicButton
                 title="Let's get in touch"
