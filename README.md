@@ -7,7 +7,7 @@ Welcome to my personal **Front-end Developer** and **Product Designer** portfoli
 This portfolio is designed to demonstrate my expertise in building functional, user-friendly web applications using **Next.js**, **TypeScript**, and **Tailwind CSS**, along with my growing abilities in **UI/UX design**.
 
 ### 🔑 Key Projects:
-1. **[Carepulse](http://carepulse-pearl.vercel.app/)**: A healthcare patient management system for doctors and patients. To test the admin dashboard, use the passkey `67543`.
+1. **[Carepulse](http://carepulse-pearl.vercel.app/)**: A healthcare patient management system for doctors and patients. To test the admin dashboard, use the passkey `395027`.
 2. **[Horizon](http://horizon-azure.vercel.app/)**: A financial SaaS platform that connects to multiple bank accounts and offers real-time transaction tracking. Test the app with:
    - Username: `user_good`
    - Password: `pass_good`
