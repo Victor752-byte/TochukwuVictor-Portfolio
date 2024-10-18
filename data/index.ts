@@ -242,7 +242,7 @@ export const socialMedia = [
   },
   {
     id: 2,
-    img: "/xlogo.svg",
+    img: "/twit.svg",
     route: 'https://x.com/Victorcode1'
   },
   {
