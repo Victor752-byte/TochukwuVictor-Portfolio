@@ -86,12 +86,12 @@ const RecentProjects = () => {
           className="flex flex-wrap items-center justify-center p-4 gap-x-24 gap-y-8 mt-10"
           id="designWork"
         >
-          {designProjects.map(({ id, title, des, img, iconLists, link }) => (
+          {designProjects.map(({ id, title, des, img, iconLists }) => (
             <div
               key={id}
-              className="sm:h-[41rem] h-[32rem] lg:min-h-[32.5rem] flex-col items-center justify-center sm:w-[570px] w-[80vw]"
+              className="h-fit p-4 flex-col items-center justify-center sm:w-[570px] w-[80vw] rounded-2xl  shadow-[0_8px_16px_rgb(0_0_0/0.4)] border border-white/[0.1] group-hover/pin:border-white/[0.2] transition duration-700"
             >
-              <div className="relative flex item-center jusify-center sm:w-[570px] w-[80vw] overflow-hidden sm:h-[40vh] h-[30vh]">
+              <div className="relative flex item-center jusify-center sm:w-[538px] w-[80vw] overflow-hidden sm:h-[40vh] h-[30vh]">
                 <div className="relative w-full h-full overflow-hidden lg:rounded-3xl bg-[#13162d]">
                   <img src="/bg.png" alt="bg-img" />
                 </div>
