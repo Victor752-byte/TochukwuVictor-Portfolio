@@ -107,20 +107,20 @@ export const designProjects = [
   {
     id: 1,
     title: "A mobile news app home page",
-    des: "An early design for a mobile news app, focusing on a clean, card-based layout for easy browsing of headlines across categories. Navigation is simplified with a bottom bar for quick access to main sections. Tools: Figma.",
-    img: "/newsapp.png",
+    des: "An early design for a mobile news app, focusing on a clean, card-based layout for easy browsing of headlines across categories. Navigation is simplified with a bottom bar for quick access to main sections.",
+    img: ["/newsapp.png"],
     iconLists: ["/figmalogo.svg"],
     link: "#designWork",
   },
   {
     id: 2,
-    title: "A mobile workout app wireframe",
-    des: "A minimalist wireframe for a workout tracker app, designed for users to easily log exercises and track progress. The focus is on simplicity and functionality with options to edit routines or share progress. Tools: Figma.",
-    img: "/workout.png",
+    title: "A Fintech avings and investment web app",
+    des: "Dashboard designed to help users track their finances, with quick actions (add money, transfer funds), an investment portfolio (stocks, crypto, real estate, mutual funds), savings goals, and recent transactions.",
+    img: ["/NeoSave-aboveFold.png", "/NeoSave-FullPage.png"],
     iconLists: ["/figmalogo.svg"],
     link: "#designWork",
   },
-]
+];
 
 export const testimonials = [
   {
@@ -238,16 +238,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    route: 'https://github.com/Victor752-byte'
+    route: "https://github.com/Victor752-byte",
   },
   {
     id: 2,
     img: "/twit.svg",
-    route: 'https://x.com/Victorcode1'
+    route: "https://x.com/Victorcode1",
   },
   {
     id: 3,
     img: "/link.svg",
-    route: 'https://www.linkedin.com/in/tochukwu-victor-7a03b7221/'
+    route: "https://www.linkedin.com/in/tochukwu-victor-7a03b7221/",
   },
 ];
