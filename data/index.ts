@@ -114,7 +114,7 @@ export const designProjects = [
   },
   {
     id: 2,
-    title: "A Fintech avings and investment web app",
+    title: "A Fintech savings and investment web app",
     des: "Dashboard designed to help users track their finances, with quick actions (add money, transfer funds), an investment portfolio (stocks, crypto, real estate, mutual funds), savings goals, and recent transactions.",
     img: ["/NeoSave-aboveFold.png", "/NeoSave-FullPage.png"],
     iconLists: ["/figmalogo.svg"],
@@ -183,33 +183,29 @@ export const companies = [
     name: "",
     img: "/imaginify.png",
   },
-  // {
-  //   id: 3,
-  //   name: "HOSTINGER",
-  //   img: "/host.svg",
-  //   nameImg: "/hostName.svg",
-  // },
-  // {
-  //   id: 4,
-  //   name: "stream",
-  //   img: "/s.svg",
-  //   nameImg: "/streamName.svg",
-  // },
-  // {
-  //   id: 5,
-  //   name: "docker.",
-  //   img: "/dock.svg",
-  //   nameImg: "/dockerName.svg",
-  // },
 ];
 
 export const workExperience = [
   {
     id: 1,
+    title: "Frontend Engineer Tutor at GVC",
+    desc: "Provided one-on-one and group tutoring sessions to classmates, offering guidance on HTML, CSS, JavaScript, React, and other front-end technologies.",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/exp3.svg",
+  },
+  {
+    id: 2,
     title: "Frontend Engineer Intern at HNG",
     desc: "Assisted in the development of a web-based platform using Next.js and TypeScript, enhancing interactivity.",
     className: "",
     thumbnail: "/exp1.svg",
+  },
+  {
+    id: 3,
+    title: "FullStack Developer(frontend-heavy) at TechbaseNG",
+    desc: "Developed and maintained a modern, responsive web application for a device repair service using Next.js, React, and TypeScript",
+    className: "md:col-span-2",
+    thumbnail: "/exp4.svg",
   },
   // {
   //   id: 2,
@@ -217,20 +213,6 @@ export const workExperience = [
   //   desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
   //   className: "md:col-span-2", // change to md:col-span-2
   //   thumbnail: "/exp2.svg",
-  // },
-  {
-    id: 3,
-    title: "Frontend Engineer Tutor at GVC",
-    desc: "Provided one-on-one and group tutoring sessions to classmates, offering guidance on HTML, CSS, JavaScript, React, and other front-end technologies.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
-  },
-  // {
-  //   id: 4,
-  //   title: "Lead Frontend Developer",
-  //   desc: "Developed and maintained user-facing features using modern frontend technologies.",
-  //   className: "md:col-span-2",
-  //   thumbnail: "/exp4.svg",
   // },
 ];
 
