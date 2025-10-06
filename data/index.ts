@@ -105,14 +105,6 @@ export const developmentProjects = [
 ];
 export const designProjects = [
   {
-    id: 1,
-    title: "A mobile news app home page",
-    des: "An early design for a mobile news app, focusing on a clean, card-based layout for easy browsing of headlines across categories. Navigation is simplified with a bottom bar for quick access to main sections.",
-    img: ["/newsapp.png"],
-    iconLists: ["/figmalogo.svg"],
-    link: "#designWork",
-  },
-  {
     id: 2,
     title: "A Fintech savings and investment web app",
     des: "Dashboard designed to help users track their finances, with quick actions (add money, transfer funds), an investment portfolio (stocks, crypto, real estate, mutual funds), savings goals, and recent transactions.",

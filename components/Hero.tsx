@@ -30,11 +30,12 @@ const Hero = () => {
 
             <TextGenerateEffect
               className="text-center text-[40px] md:text-6xl"
-              words="I help founders & businesses turn ideas into scalable, user-friendly apps"
+              words="I build web applications that work."
             />
             <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl mt-4">
-              Combining full-stack engineering + product design with a
-              people-first approach
+              Frontend developer who designs and codes. Currently expanding into
+              full-stack development with NestJS and GraphQL. I work in Figma
+              and build with Next.js, TypeScript, and React.
             </p>
             <a href="#about">
               <MagicButton
